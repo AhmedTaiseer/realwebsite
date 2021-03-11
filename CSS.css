@@ -1,0 +1,60 @@
+@font-face {
+	src:url(file:///C:/Users/pc/Desktop/fonts/queen.ttf);
+	font-family: nos;
+}
+header {
+	-webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #white;
+  margin: left;
+	margin: top;
+	font-family: nos;
+	color: white;
+	display: inline-block;
+	font-size: 28px
+}
+nav ul a{
+	margin:left;
+	margin: top;
+	display: inline-block;
+	padding: 5px;
+	font-family: nos;
+	color: powderblue
+}
+body {
+	font-family: bebas;
+	background: #1a0000;
+	color: #e68a00
+}
+.image1 {
+	height:400px;
+	width:300px; 
+}
+.image2 {
+	height:400px
+
+}
+
+}	
+@font-face {
+	src:url(file:///C:/Users/pc/Desktop/fonts/Bebas-regular.ttf);
+	font-family: bebas;
+
+}
+@font-face {
+    font-family: 'queenregular';
+    src: url('queen-webfont.woff2') format('woff2'),
+         url('queen-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    }
+
+   nav {
+display: inline-block;
+float: middle;}
+
+nav ul  {
+list-style: none;
+display: inline-block;} 
+}
+
+
